@@ -1,3 +1,6 @@
+#A title
+#Something that is not a metasynta
+A line added in feature
 Foo
 bar
 baz
