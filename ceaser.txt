@@ -1,3 +1,5 @@
+#A title
+A line added in feature
 Foo
 bar
 baz
